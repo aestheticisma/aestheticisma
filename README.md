@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 💻 I'm currently a master student in Dalian University of Technology.
-<p align="center">
+<<!-- p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 	  <img src="https://github-readme-stats.vercel.app/api?username=aestheticisma&count_private=true&show_icons=true&theme=vue" />
 	</a>
-</p>
+</p> -->
 
 
 <!--
