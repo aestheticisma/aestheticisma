@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
-  Visitor count<br>
+<p align="left"> 
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/aestheticisma/count.svg" />
 </p>
 
